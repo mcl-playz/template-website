@@ -1,1 +1,2 @@
-*this file can be deleted
+# Website Template
+This is a template used for creating websites.
